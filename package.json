@@ -1,5 +1,6 @@
 {
   "name": "tdi",
+  "homepage": "https://tdi-co.github.io/TDI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
